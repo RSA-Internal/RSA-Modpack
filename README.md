@@ -13,3 +13,5 @@ Getting either launcher and importing the appropriate file will get you an insta
 - Server IP: rsamodpack.mc.gg
 - Memory: 8gb+
 - Server Version: v1
+- Forge Version: 47.1.3 (This is a requirement)
+- Minecraft Version: 1.20.1
